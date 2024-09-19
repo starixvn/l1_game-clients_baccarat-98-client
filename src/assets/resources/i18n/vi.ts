@@ -174,6 +174,11 @@ export const languages = {
         "Header_fairness_settings": "Cài Đặt Tính Minh Bạch",
         "average": "Trung bình cộng",
         "banker_win": "NHÀ CÁI THẮNG",
+        "button_home": "Sảnh",
+        "button_music": "Nhạc nền",
+        "button_reconnect": "Kết nối",
+        "button_settings": "Cài đặt",
+        "button_sfx": "SFX",
         "calculate_final_cut-card_index": "Tính toán vị trí Cut-card cuối cùng",
         "cut-card_index_note": "Vị trí Cut-card được tạo ra từ sự kết hợp giữa Server Seed và Client Seed đã xác nhận của tất cả người chơi.",
         "don't_show_again": "Không hiển thị lại",
@@ -191,17 +196,13 @@ export const languages = {
         "glossary_tie": "Hòa",
         "header_cut-card_index": "Vị trí Cut-card",
         "header_fairness_verification": "Xác Minh Tính Minh Bạch",
-        "home_button": "Sảnh",
         "input_cut-card_button": "Nhập Vị Trí Cut-card",
         "multiplierpayouts_fee": "Phụ Phí",
         "multiplierpayouts_lucky_card": "Lá Bài May Mắn",
         "multiplierpayouts_multiplier": "Số Nhân",
-        "music_button": "Nhạc nền",
         "player_win": "NHÀ CON THẮNG",
         "scoreboard_banker_pair": "Cái Đôi",
         "scoreboard_player_pair": "Con Đôi",
-        "settings_button": "Cài đặt",
-        "sfx_button": "SFX",
         "shoe_result": "Kết Quả Hộp Bài",
         "shoe_result SHA256": "Kết Quả Hộp Bài SHA256",
         "show_cut_card_index": "Vị trí Cut-card là %{cut_card_index}",
@@ -222,8 +223,8 @@ export const languages = {
         "waiting screen_para_2": "Nhấn vào nút bên dưới nếu bạn muốn tham gia vào quá trình tạo vị trí Cut-card",
         "waiting_screen_para_1": "Tạo Vị Trí Cut-card"
     },
-    "Bac84": {
-        "game_name": "Cào Baccarat 2"
+    "Bac98": {
+        "game_name": "Baccarat Nhanh"
     }
 };
 

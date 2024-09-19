@@ -174,6 +174,8 @@ export const languages = {
         "Header_fairness_settings": "Pengaturan keadilan",
         "average": "Rata-rata",
         "banker_win": "BANKER MENANG",
+        "button_reconnect": "Menghubung",
+        "button_settings": "Pengaturan",
         "calculate_final_cut-card_index": "Hitung indeks Cut-card akhir",
         "cut-card_index_note": "Indeks Cut-card merupakan kombinasi dari Server Seed dan Seed Klien dari semua pemain yang diserahkan.",
         "don't_show_again": "Jangan tampilkan lagi",
@@ -215,8 +217,8 @@ export const languages = {
         "waiting screen_para_2": "Klik tombol di bawah jika Anda ingin berkontribusi pada pembuatan indeks Cut-card",
         "waiting_screen_para_1": "Menghasilkan Indeks Cut-card"
     },
-    "Bac84": {
-        "game_name": "Bakarat 2"
+    "Bac98": {
+        "game_name": "Speed Bakarat"
     }
 };
 

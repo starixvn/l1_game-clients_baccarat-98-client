@@ -174,6 +174,11 @@ export const languages = {
         "Header_fairness_settings": "Fairness Settings",
         "average": "Average",
         "banker_win": "BANKER WIN",
+        "button_home": "Home",
+        "button_music": "Music",
+        "button_reconnect": "Reconnect",
+        "button_settings": "Settings",
+        "button_sfx": "SFX",
         "calculate_final_cut-card_index": "Calculate final Cut-card index",
         "cut-card_index_note": "The Cut-card index is a combination of the Server Seed and the Client Seeds of all submitted players.",
         "don't_show_again": "Don't show again",
@@ -191,17 +196,13 @@ export const languages = {
         "glossary_tie": "Tie",
         "header_cut-card_index": "Cut-Card Index",
         "header_fairness_verification": "Fairness Verification",
-        "home_button": "Home",
         "input_cut-card_button": "Input Cut-card Index",
         "multiplierpayouts_fee": "Extra Fee",
         "multiplierpayouts_lucky_card": "Lucky Cards",
         "multiplierpayouts_multiplier": "Multiplier",
-        "music_button": "Music",
         "player_win": "PLAYER WIN",
         "scoreboard_banker_pair": "B. Pair",
         "scoreboard_player_pair": "P. Pair",
-        "settings_button": "Settings",
-        "sfx_button": "SFX",
         "shoe_result": "Shoe Result",
         "shoe_result SHA256": "Shoe Result SHA256",
         "show_cut_card_index": "The cut-card index is %{cut_card_index}",
@@ -222,8 +223,8 @@ export const languages = {
         "waiting screen_para_2": "Click the button below if you would like to contribute to the cut-card index generation",
         "waiting_screen_para_1": "Generating the Cut-card Index"
     },
-    "Bac84": {
-        "game_name": "Baccarat 2"
+    "Bac98": {
+        "game_name": "Speed Baccarat"
     }
 };
 

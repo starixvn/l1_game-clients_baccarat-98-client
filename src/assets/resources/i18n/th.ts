@@ -174,6 +174,8 @@ export const languages = {
         "Header_fairness_settings": "การตั้งค่าความยุติธรรม",
         "average": "ค่าเฉลี่ย",
         "banker_win": "เจ้ามือชนะ",
+        "button_reconnect": "เชื่อมต่ออีกครั้ง",
+        "button_settings": "ตั้งค่า",
         "calculate_final_cut-card_index": "คำนวณดัชนีตัดไพ่ขั้นสุดท้าย",
         "cut-card_index_note": "ดัชนีตัดไพ่ คือการรวมกันของ Server Seed และ Client Seeds ของผู้เล่นที่ส่งเข้ามาทั้งหมด",
         "don't_show_again": "ไม่ต้องแสดงอีก",
@@ -215,8 +217,8 @@ export const languages = {
         "waiting screen_para_2": "คลิกปุ่มด้านล่างหากคุณต้องการมีส่วนร่วมในการตัดไพ่",
         "waiting_screen_para_1": "การสร้างดัชนีตัดไพ่"
     },
-    "Bac84": {
-        "game_name": "บาคาร่า 2"
+    "Bac98": {
+        "game_name": "สปีดบาคาร่า"
     }
 };
 

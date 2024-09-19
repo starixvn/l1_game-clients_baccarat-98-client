@@ -174,6 +174,8 @@ export const languages = {
         "Header_fairness_settings": "公平性设置",
         "average": "平均值",
         "banker_win": "庄家赢",
+        "button_reconnect": "重新连接",
+        "button_settings": "设置",
         "calculate_final_cut-card_index": "计算最终的切牌指数",
         "cut-card_index_note": "切牌指数是所有提交玩家的伺服器种子和客户端种子的组合。",
         "don't_show_again": "不再显示",
@@ -215,8 +217,8 @@ export const languages = {
         "waiting screen_para_2": "如果您想为切牌指数产生做出贡献，请点击下面的按钮",
         "waiting_screen_para_1": "产生切牌指数"
     },
-    "Bac84": {
-        "game_name": "百家乐 2"
+    "Bac98": {
+        "game_name": "极速百家乐"
     }
 };
 

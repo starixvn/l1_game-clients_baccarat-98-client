@@ -9,13 +9,13 @@ export const settings = {
     name: GAME_NAME,
     namespaces: [GAME_NAME, "BaccaratX"],
     durations: {
-        wholeRound: 47,
-        wholeShoe: 65,
+        wholeRound: 33,
+        wholeShoe: 51,
         lockingBet: 3,
-        placingBet: 30,
-        generatingResult: 7,
+        placingBet: 20,
+        generatingResult: 4,
         showingResult: 5,
-        startRound: 4,
+        startRound: 3,
     },
     numberOfRoundHistory: 100,
 };
